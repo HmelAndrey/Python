@@ -1,2 +1,2 @@
 # Python
-Homework for python lessons
+Homework
